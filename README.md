@@ -23,32 +23,6 @@
 
 ## 📁 Project Structure
 
-
-## 🔧 Tech Stack
-
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Frontend:** EJS, Tailwind CSS
-- **Auth:** JWT (JSON Web Token)
-- **Image Upload:** Multer
-- **Other Tools:** dotenv, cookie-parser
-
----
-
-## 📁 Project Structure
-
-
-## 🔧 Tech Stack
-
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Frontend:** EJS, Tailwind CSS
-- **Auth:** JWT (JSON Web Token)
-- **Image Upload:** Multer
-- **Other Tools:** dotenv, cookie-parser
-
----
-
-## 📁 Project Structure
-
 blogify-app/
 ├── controllers/
 ├── middlewares/
@@ -83,7 +57,7 @@ blogify-app/
 
 1. User signs up → Token generated.
 2. Token stored in HTTP-only cookie.
-3. Middleware verifies token on protected routes.
+3. Middleware verifies the token on protected routes.
 
 ---
 
@@ -99,10 +73,10 @@ blogify-app/
 ![Home Page](./public/screenshots/home.png)
 
 ### 📄 Full Blog Page
-![Show Blog Page](./public/screenshots/showblog.png)
+![Show Blog Page](./public/screenshots/show-single-blog.png)
 
 ### ✍️ Add Blog
-![Add Blog](./public/screenshots/addblog.png)
+![Add Blog](./public/screenshots/add.png)
 
 ---
 
