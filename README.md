@@ -23,30 +23,6 @@
 
 ## 📁 Project Structure
 
-## 🔧 Tech Stack
-
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Frontend:** EJS, Tailwind CSS
-- **Auth:** JWT (JSON Web Token)
-- **Image Upload:** Multer
-- **Other Tools:** dotenv, cookie-parser
-
----
-
-## 📁 Project Structure
-
-## 🔧 Tech Stack
-
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Frontend:** EJS, Tailwind CSS
-- **Auth:** JWT (JSON Web Token)
-- **Image Upload:** Multer
-- **Other Tools:** dotenv, cookie-parser
-
----
-
-## 📁 Project Structure
-
 ```
 📂 blogify-app
 ├──📂 controllers/
